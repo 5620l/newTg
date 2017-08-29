@@ -228,7 +228,7 @@ function create_config( )
     "SetExpire"
     },
     vip_users = {}, --vip users
-    sudo_users = {288644074,tonumber(our_id)},--Sudo users
+    sudo_users = {189308877,tonumber(our_id)},--Sudo users
     support_gp = {},--Support id
     moderation = {data = 'data/moderation.jso'},
     about_text = [[source v 1.0 
